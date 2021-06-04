@@ -37,7 +37,7 @@
     </developers>
 
     <properties>
-        <apache.http.version>4.5.3</apache.http.version>
+        <apache.http.version>4.5.13</apache.http.version>
     </properties>
 
     <build>
